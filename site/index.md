@@ -13,9 +13,11 @@ site are my own etc.)
 
 I have designed and developed large stream processing systems, taught science / crypto classes in schools, developed secure proxies, conducted security audits and worked on [open source projects](https://github.com/s-rah) including:
 
-* [itsy bitsy](https://github.com/s-rah/itsy-bitsy) - A teenie tiny Static Site Generator
-* [xv6-permissions](https://github.com/s-rah/xv6-permissions) - A project and [article](posts/file-system-permissions-and-xv6.html) exploring how unix-like file system permissions are implemented from the physical filesystem and up.
+* [Recoil](https://github.com/s-rah/recoil) - A testing tool for the Ricochet protocol/client
+* [Go-Ricochet](https://github.com/s-rah/go-ricochet) - A go implementation of the Ricochet protocol
 * [ivy](https://github.com/s-rah/ivy) - A small, security-focused Go library.
+* [xv6-permissions](https://github.com/s-rah/xv6-permissions) - A project and [article](posts/file-system-permissions-and-xv6.html) exploring how unix-like file system permissions are implemented from the physical filesystem and up.
+* [itsy bitsy](https://github.com/s-rah/itsybitsy) - A teenie tiny Static Site Generator
 
 I also use this site to document [things I have read, watched and listened to.](/readings.html).
 
