@@ -22,7 +22,11 @@ version which I don't have please let me know.
 * [Jacob Applebaum Citizen Four Q&A DebConf 2015](http://gemmei.acc.umu.se/pub/debian-meetings/2015/debconf15/Citizenfour_Q_A_Session.webm)
 * [Conflicting Threat Models](https://www.lvh.io/posts/conflicting-threat-models.html)
 * [DRDoS, UDP-Based protocols and BitTorrent](http://engineering.bittorrent.com/2015/08/27/drdos-udp-based-protocols-and-bittorrent/)
-
+* [Starting an Infosec Career 4-5](http://tisiphone.net/2015/11/08/starting-an-infosec-career-the-megamix-chapters-4-5/)
+* [What Do WebLogic, WebSphere, JBoss, Jenkins, OpenNMS, and Your Application Have in Common? This Vulnerability.](http://foxglovesecurity.com/2015/11/06/what-do-weblogic-websphere-jboss-jenkins-opennms-and-your-application-have-in-common-this-vulnerability/)
+* [grsecurity thoughts on security industry](https://grsecurity.net/~spender/interview_notes.txt)
+* [Intel x86 Considered Harmful](http://blog.invisiblethings.org/2015/10/27/x86_harmful.html)
+* [Weird new tricks for browser fingerprinting](https://zyan.scripts.mit.edu/presentations/toorcon2015.pdf)
 
 ### Tor
 
@@ -30,6 +34,7 @@ version which I don't have please let me know.
 * [Everything About Tor](https://ritter.vg/p/tor-v1.6.pdf)
 * [Non-Hidden Hidden Services Considered Harmful](https://conference.hitb.org/hitbsecconf2015ams/wp-content/uploads/2015/02/D2T2-Filippo-Valsorda-and-George-Tankersly-Non-Hidden-Hidden-Services-Considered-Harmful.pdf)
 * [Implementing a Tor Relay from Scratch (go)](https://tvdw.eu/blog/2015/01/24/implementing-a-tor-relay-from-scratch/) - some interesting thoughts on go TLS libraries and performance that might be worth investigating further.
+* [Comparing HTTP, HTTPS, VPN, and Tor with “snail mail” metaphors](https://yawnbox.com/?p=3880)
 
 
 ### [MIT 6.858 Computer Systems Security](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/)
@@ -96,6 +101,8 @@ nice introduction and exploration of UNIX-like privilege constructs.
 * [Adblocking and Morality](http://utcc.utoronto.ca/~cks/space/blog/web/AdblockingAndMorality)
 * [The ICANN Public Comments on WHOIS Privacy](https://www.imperialviolet.org/2015/07/05/icannwhois.html)
 * [Coding like a Girl](https://medium.com/@sailorhg/coding-like-a-girl-595b90791cce)
+* [Women in Infosec](http://infospectives.co.uk/2015/11/09/women-in-infosec-grcers-more-than-hackers-if-so-so-what-plus-bigger-cultural-questions/) 
+* [They do take security seriously](https://www.lvh.io/posts/they-do-take-security-seriously.html)
 
 ## Linux and OS-Dev 
 

@@ -1,11 +1,28 @@
 body {
-    color: #444;
-    font-size: 13px;
     margin: 0px auto 0px auto;
-    width: 70%;
+    width: 60%;
     max-width:1024px;
     text-align:left;
-    font-family:trebuchet,verdana,sans;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+
+a {
+  color: #337ab7;
+  text-decoration: none;
+}
+a:hover,
+a:focus {
+  color: #23527c;
+  text-decoration: underline;
+}
+a:focus {
+  outline: thin dotted;
+  outline: 5px auto -webkit-focus-ring-color;
+  outline-offset: -2px;
 }
 
 li {
@@ -13,7 +30,7 @@ li {
 }
 
 div#header {
-    border-bottom: 2px solid black;
+    border-bottom: 2px solid #333;
     margin-bottom: 30px;
     padding: 12px 0px 12px 0px;
 }
@@ -80,4 +97,9 @@ a {
 	border: 2px solid #003300;
 	color:#227722;
 	font-weight:bold;
+}
+
+blockquote {
+    width:50%;
+    margin:25%;
 }

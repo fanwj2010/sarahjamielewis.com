@@ -24,13 +24,14 @@ do
   TITLE=$(head -n 1 $f | cut -c3-)
   DES=$(sed -n '4p' $f)
   
+  
   perl Markdown.pl --html4tags $f > ${f%.*}.stage.html;
   cp ./templates/$BASE.html ${f%.*}.tmp.html
 
   # Search and replace time.
   sed -e "/\%body/r ${f%.*}.stage.html" -e "/$str/d" ${f%.*}.tmp.html > ${f%.*}.title.html
   sed "s/\%title/$TITLE/g" ${f%.*}.title.html > ${f%.*}.des.html 
-  sed "s/\%des/$DES/g" ${f%.*}.des.html > ${f%.*}.html 
+  sed "s/\%des/DES/g" ${f%.*}.des.html > ${f%.*}.html 
   rm ${f%.*}.stage.html ${f%.*}.title.html ${f%.*}.des.html  ${f%.*}.tmp.html $f
 done
 
