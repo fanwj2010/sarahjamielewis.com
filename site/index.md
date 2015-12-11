@@ -11,7 +11,7 @@ and vegan food.
 I currently build and break systems at a large tech company (all opinions on this
 site are my own etc.)
 
-I have designed and developed large stream processing systems, taught science / crypto classes in schools, developed secure proxies, conducted security audits and worked on [open source projects](https://github.com/s-rah) including:
+In the past I have designed and developed large stream processing systems, taught science and cryptography classes in schools, built secure proxies, conducted security audits and worked on [open source projects](https://github.com/s-rah) including:
 
 * [Recoil](https://github.com/s-rah/recoil) - A testing tool for the Ricochet protocol/client
 * [Go-Ricochet](https://github.com/s-rah/go-ricochet) - A go implementation of the Ricochet protocol
@@ -19,15 +19,32 @@ I have designed and developed large stream processing systems, taught science / 
 * [xv6-permissions](https://github.com/s-rah/xv6-permissions) - A project and [article](posts/file-system-permissions-and-xv6.html) exploring how unix-like file system permissions are implemented from the physical filesystem and up.
 * [itsy bitsy](https://github.com/s-rah/itsybitsy) - A teenie tiny Static Site Generator
 
-I also use this site to document [things I have read, watched and listened to.](/readings.html).
+# Resume / What I do
 
-I am on the [twitter](https://twitter.com/SarahJamieLewis) and you can also [email me](mailto://me@sarahjamielewis.com). My [ricochet](https://ricochet.im) address is: <code>ricochet:qn6uo4cmsrfv4kzq</code>.
+I specialize in software security, most notably, web application security,
+protocol analysis and privacy.
 
+I’m always interested in hearing from people with interesting projects, so, 
+please, feel free to contact me (details below).
+
+You can find examples of my work, and work history at these places:
+
+* My [LinkedIn](https://ca.linkedin.com/in/sarahjamielewis).
+* [Github - @s-rah](https://github.com/s-rah) - a collection of open source projects.
+* [Github Security Bug Bounty profile](https://bounty.github.com/researchers/s-rah.html) - one example of my security research.
 
 # Things I have Written
 
 * [How File Systems Store User Permissions - A Practical Guide with xv6](posts/file-system-permissions-and-xv6.html)
 * I am working on a book titled [Building and Breaking Anonymous Systems - A Practical Guide](https://leanpub.com/building-and-breaking-anonymous-systems).
+
+I also use this site to document [things I have read, watched and listened to.](/readings.html).
+
+# Contacting Me
+
+I am on [twitter](https://twitter.com/SarahJamieLewis) and you can also [email me](mailto://me@sarahjamielewis.com). 
+
+My [ricochet](https://ricochet.im) address is: <code>ricochet:qn6uo4cmsrfv4kzq</code>.
 
 # My PGP Public Key
 
