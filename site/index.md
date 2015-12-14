@@ -31,10 +31,14 @@ You can find examples of my work, and work history at these places:
 
 * My [LinkedIn](https://ca.linkedin.com/in/sarahjamielewis).
 * [Github - @s-rah](https://github.com/s-rah) - a collection of open source projects.
-* [Github Security Bug Bounty profile](https://bounty.github.com/researchers/s-rah.html) - one example of my security research.
+
+# Security Research / Bug Bounties
+
+* [GitHub Security Bug Bounty profile](https://bounty.github.com/researchers/s-rah.html) ([writeup](posts/fun-with-github.html))
 
 # Things I have Written
 
+* [Fun with GitHub Email Settings (GitHub Bug Bounty)](/posts/fun-with-github.html)
 * [How File Systems Store User Permissions - A Practical Guide with xv6](posts/file-system-permissions-and-xv6.html)
 * I am working on a book titled [Building and Breaking Anonymous Systems - A Practical Guide](https://leanpub.com/building-and-breaking-anonymous-systems).
 

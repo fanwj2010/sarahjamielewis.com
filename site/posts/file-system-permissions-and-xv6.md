@@ -1,7 +1,30 @@
 # How File Systems Store User Permissions - A Practical Guide with xv6
 
-
 Have you ever wondered how operating systems like Ubuntu or Debian store user file permissions? I have; and set about on a mini project to understand the how and the why.
+
+<div itemscope itemtype="http://schema.org/BlogPosting">
+  <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="https://sarahjamielewis.com/posts/file-system-permissions-and-xv6.html"/> 
+  <h2 itemprop="headline">How File Systems Store User Permissions - A Practical Guide with xv6</h2>
+  <h3 itemprop="author" itemscope itemtype="https://schema.org/Person">
+    By <span itemprop="name">Sarah Jamie Lewis</span>
+  </h2>
+  <span itemprop="description">Have you ever wondered how operating systems like Ubuntu or Debian store user file permissions? I have; and set about on a mini project to understand the how and the why.</span>
+  <meta itemprop="datePublished" content="2015-03-15T08:00:00+08:00"/>
+  <meta itemprop="dateModified" content="2015-12-13T08:00:00+08:00"/>
+  <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+    <meta itemprop="name" content="Sarah Jamie Lewis">
+    <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+      <meta itemprop="url" content="https://sarahjamielewis.com/images/sarah.png">
+      <meta itemprop="width" content="400">
+      <meta itemprop="height" content="400">
+    </div>  
+  </div>
+      <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+       <meta itemprop="url" content="https://sarahjamielewis.com/images/xv6/inode.png">
+       <meta itemprop="width" content="200">
+       <meta itemprop="height" content="464">
+      </div>
+</div>
 
 *This is an ongoing, evolving article - text and diagrams are very likely to be added and changed as I delve more into the system and find better ways of explaining these concepts.*
 
