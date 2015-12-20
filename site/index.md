@@ -1,15 +1,11 @@
 <! Threat Models are not Optional. 
 -->
-
-# About Me
-
+# Introduction
 Hi I'm Sarah, I like computer security, privacy, cryptography, decentralization, free software
-and vegan food.
-
-<img src="./images/sarah.png" itemprop="photo" alt="picture of Sarah Jamie Lewis" class="img-rounded" style="float: right; border-radius: 15px; margin: 0px 10px 0px 40px;" height="150px" width="150px">
-
-I currently build and break systems at a large tech company (all opinions on this
+and vegan food. I currently build and break systems at a large tech company (all opinions on this
 site are my own etc.)
+
+<img src="./images/sarah.png" itemprop="photo" alt="picture of Sarah Jamie Lewis" class="img-rounded" style="float: right; border-radius: 15px; border:1px solid #aaa; margin: 0px 20px 0px 20px;" height="150px" width="150px">
 
 In the past I have designed and developed large stream processing systems, taught science and cryptography classes in schools, built secure proxies, conducted security audits and worked on [open source projects](https://github.com/s-rah) including:
 

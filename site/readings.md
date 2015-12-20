@@ -1,7 +1,30 @@
 # Big List of Readings
+ 
+This page chronicles articles, videos, papers and other such productions that I have found useful or otherwise enjoyed. 
 
-This page chronicles articles, videos, papers and other such productions that I 
-have found useful or otherwise enjoyed. 
+<div itemscope itemtype="http://schema.org/BlogPosting">
+  <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="https://sarahjamielewis.com/reading.html"/> 
+  <h2 itemprop="headline">Big List of Readings</h2>
+  <h3 itemprop="author" itemscope itemtype="https://schema.org/Person">
+    By <span itemprop="name">Sarah Jamie Lewis</span>
+  </h2>
+  <span itemprop="description">This page chronicles articles, videos, papers and other such productions that I have found useful or otherwise enjoyed.</span>
+  <meta itemprop="datePublished" content="2015-03-14T08:00:00+08:00"/>
+  <meta itemprop="dateModified" content="2015-12-20T08:00:00+08:00"/>
+  <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+    <meta itemprop="name" content="Sarah Jamie Lewis">
+    <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+      <meta itemprop="url" content="https://sarahjamielewis.com/images/sarah.png">
+      <meta itemprop="width" content="400">
+      <meta itemprop="height" content="400">
+    </div>
+  </div>
+      <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+       <meta itemprop="url" content="https://sarahjamielewis.com/images/sarah.png">
+       <meta itemprop="width" content="400">
+       <meta itemprop="height" content="400">
+      </div>
+</div>
 
 I update this fairly regularly. If you find a broken link or know of a canonical
 version which I don't have please let me know.
@@ -65,6 +88,10 @@ nice introduction and exploration of UNIX-like privilege constructs.
 * [Ur/Web: A Simple Model for Programming the Web](http://dspace.mit.edu/openaccess-disseminate/1721.1/92321)
 * [A look back at "security problems in the TCP/IP protocol suite](https://www.cs.columbia.edu/~smb/papers/acsac-ipext.pdf)
 
+### Machine Learning
+
+* [Secure Because Math: A Deep-Dive on ML-Based Monitoring](https://www.youtube.com/watch?v=TYVCVzEJhhQ)
+
 ### Cryptography 
 
 * [Crypto 101](https://www.crypto101.io/)
@@ -84,6 +111,7 @@ nice introduction and exploration of UNIX-like privilege constructs.
 * [About the supposed factoring of a 4096 bit RSA key](https://blog.hboeck.de/archives/872-About-the-supposed-factoring-of-a-4096-bit-RSA-key.html)
 * [Cryptographic Right Answers](https://gist.github.com/tqbf/be58d2d39690c3b366ad)
 * [Memo to the Amateur Cipher Designer](https://www.schneier.com/crypto-gram/archives/1998/1015.html#cipherdesign) 
+* [On the CCA (in)security of MTProto](https://eprint.iacr.org/2015/1177)
 
 ### Steganography
 
