@@ -32,7 +32,7 @@ do
   sed -e "/\%body/r ${f%.*}.stage1.html" -e "/$str/d" ${f%.*}.tmp.html > ${f%.*}.title.html
   sed "s/\%title/$TITLE/g" ${f%.*}.title.html > ${f%.*}.des.html 
   sed "s/\%des/$DES/g" ${f%.*}.des.html > ${f%.*}.html 
-  rm ${f%.*}.stage.html ${f%.*}.title.html ${f%.*}.des.html  ${f%.*}.tmp.html $f
+  rm ${f%.*}.stage* ${f%.*}.title.html ${f%.*}.des.html  ${f%.*}.tmp.html $f
 done
 
 # Clean up and rename

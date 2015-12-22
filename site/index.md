@@ -32,7 +32,7 @@ You can find examples of my work, and work history at these places:
 
 * [GitHub Security Bug Bounty profile](https://bounty.github.com/researchers/s-rah.html) ([writeup](posts/fun-with-github.html))
 
-# Things I have Written
+# Articles I have Written
 
 * [Fun with GitHub Email Settings (GitHub Bug Bounty)](/posts/fun-with-github.html)
 * [How File Systems Store User Permissions - A Practical Guide with xv6](posts/file-system-permissions-and-xv6.html)

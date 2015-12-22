@@ -30,7 +30,7 @@ This is the story of a small vulnerability in how GitHub validated emails...
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 GitHub is very careful about emails - if you try to add another email to
-your account, and that email is already associated with an account - you will
+your account, and that email is already associated with an existing account - you will
 receive an error:
 
 <figure style="text-align:center">
@@ -92,5 +92,5 @@ the vulnerability and that the report was eligible for their security bounty:
 
 They also gave me a coupon for 1 year on my current GitHub Plan. Thanks GitHub!
 
-I asked GitHub to donate the bounty to [the Tor Project](https://tor-project.org), which GitHub matched bringing the donation to **$1000!** - Again, **thanks GitHub!**
+I asked GitHub to donate the bounty to [the Tor Project](https://www.torproject.org), which GitHub matched bringing the donation to **$1000!** - Again, **thanks GitHub!**
 
