@@ -1,7 +1,22 @@
 # Having Fun with GitHub Email Settings
 
+
 This is the story of a small vulnerability in how GitHub validated emails...
 
+<meta property="og:type" content="article"/>
+<meta property="og:title" content="Having Fun with GitHub Email Settings"/>
+<meta property="og:image" content="//sarahjamielewis.com/images/github/endgame.png"/>
+<meta property="og:description" content="This is the story of a small vulnerability in how GitHub validated emails. By Sarah Jamie Lewis"/>
+<meta property="og:locale" content="en_CA"/>
+<meta property="og:url" content="https://sarahjamielewis.com/posts/fun-with-github.html" />
+<meta property="og:site_name" content="Sarah Jamie Lewis" />
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@SarahJamieLewis" />
+<meta name="twitter:title" content="Having Fun with GitHub Email Settings" />
+<meta name="twitter:description" content="This is the story of a small vulnerability in how GitHub validated emails..." />
+<meta name="twitter:image" content="//sarahjamielewis.com/images/github/endgame.png" />
 <div itemscope itemtype="http://schema.org/BlogPosting">
   <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="https://sarahjamielewis.com/posts/fun-with-github.html"/> 
   <h2 itemprop="headline">Having Fun with GitHub Email Settings</h2>
@@ -20,11 +35,12 @@ This is the story of a small vulnerability in how GitHub validated emails...
     </div>
   </div>
       <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-       <meta itemprop="url" content="https://sarahjamielewis.com/images/GitHub/endgame.png">
+       <meta itemprop="url" content="https://sarahjamielewis.com/images/github/endgame.png">
        <meta itemprop="width" content="517">
        <meta itemprop="height" content="192">
       </div>
 </div>
+
 
 <blockquote class="twitter-tweet tw-align-center" lang="en"><p lang="en" dir="ltr">Thanks to <a href="https://twitter.com/SarahJamieLewis">@SarahJamieLewis</a> for reporting an issue with profile email addresses and her donation to <a href="https://twitter.com/torproject">@torproject</a>. <a href="https://t.co/TgqcV5LLje">https://t.co/TgqcV5LLje</a></p>&mdash; GitHub Security (@GitHubSecurity) <a href="https://twitter.com/GitHubSecurity/status/675047561401647105">December 10, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
