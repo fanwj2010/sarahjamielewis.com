@@ -34,6 +34,7 @@ You can find examples of my work, and work history at these places:
 
 # Articles I have Written
 
+* [Adversarial Machine Learning](/posts/adversarial-machine-learning.html)
 * [Fun with GitHub Email Settings (GitHub Bug Bounty)](/posts/fun-with-github.html)
 * [How File Systems Store User Permissions - A Practical Guide with xv6](posts/file-system-permissions-and-xv6.html)
 * I am working on a book titled [Building and Breaking Anonymous Systems - A Practical Guide](https://leanpub.com/building-and-breaking-anonymous-systems).

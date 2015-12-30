@@ -6,7 +6,7 @@ A collection of resources about Adversarial Machine Learning, curated by Sarah J
 <meta name="twitter:site" content="@SarahJamieLewis" />
 <meta name="twitter:title" content="Adversarial Machine Learning" />
 <meta name="twitter:description" content="This is a collection of resources, articles, tutorials and guidance to help you adopt secure practices for machine learning." />
-<meta name="twitter:image" content="//sarahjamielewis.com/images/amlsec/amlsec-logo.png" />
+<meta name="twitter:image" content="https://sarahjamielewis.com/images/amlsec/amlsec-logo-240.png" />
 
 # Adversarial Machine Learning (#amlsec)
 
