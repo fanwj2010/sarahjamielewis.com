@@ -50,6 +50,7 @@ version which I don't have please let me know.
 * [grsecurity thoughts on security industry](https://grsecurity.net/~spender/interview_notes.txt)
 * [Intel x86 Considered Harmful](http://blog.invisiblethings.org/2015/10/27/x86_harmful.html)
 * [Weird new tricks for browser fingerprinting](https://zyan.scripts.mit.edu/presentations/toorcon2015.pdf)
+* [FROST: Forensic Recovery of Scrambled Telephones](https://www1.informatik.uni-erlangen.de/frost)
 
 ### Tor
 
@@ -91,6 +92,7 @@ nice introduction and exploration of UNIX-like privilege constructs.
 ### Machine Learning
 
 * [Secure Because Math: A Deep-Dive on ML-Based Monitoring](https://www.youtube.com/watch?v=TYVCVzEJhhQ)
+* [How To Trick a Neural Network into Thinking a Panda Is a Vulture](https://codewords.recurse.com/issues/five/why-do-neural-networks-think-a-panda-is-a-vulture)
 
 ### Cryptography 
 
@@ -131,6 +133,8 @@ nice introduction and exploration of UNIX-like privilege constructs.
 * [Coding like a Girl](https://medium.com/@sailorhg/coding-like-a-girl-595b90791cce)
 * [Women in Infosec](http://infospectives.co.uk/2015/11/09/women-in-infosec-grcers-more-than-hackers-if-so-so-what-plus-bigger-cultural-questions/) 
 * [They do take security seriously](https://www.lvh.io/posts/they-do-take-security-seriously.html)
+* [How to be the best in the world at what you do](https://medium.com/life-learning/how-to-become-the-best-in-the-world-at-what-you-do-fd88a7bce59#.mjajuycbu)
+* [How I Control Imposter Syndrome](http://www.amarchenkova.com/blog/how-i-control-imposter-syndrome)
 
 ## Linux and OS-Dev 
 
