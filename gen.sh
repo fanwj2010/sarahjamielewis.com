@@ -22,7 +22,7 @@ do
 	BASE="default"
   fi
   TITLE=$(head -n 1 $f | cut -c3-)
-  DES=$(sed -n '4p' $f)
+  DES=$(sed -n '4p' $f | sed -r 's/<\!\-\-//g') 
 
   perl Markdown.pl --html4tags $f > ${f%.*}.stage.html
   tail -n +4 ${f%.*}.stage.html > ${f%.*}.stage1.html

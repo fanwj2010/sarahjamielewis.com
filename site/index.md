@@ -1,11 +1,16 @@
 <! Threat Models are not Optional. 
--->
+
+
+<!--Sarah Jamie Lewis is a security researcher and computer scientist based in Vancouver, Canada.
+<!----->
+
+
 # Introduction
 Hi I'm Sarah, I like computer security, privacy, cryptography, decentralization, free software
-and vegan food. I currently build and break systems at a large tech company (all opinions on this
+and [vegan](/posts/vegan.html) food. I currently build and break systems at a large tech company (all opinions on this
 site are my own etc.)
 
-<img src="./images/sarah.png" itemprop="photo" alt="picture of Sarah Jamie Lewis" class="img-rounded" style="float: right; border-radius: 15px; border:1px solid #aaa; margin: 0px 20px 0px 20px;" height="150px" width="150px">
+<img src="./images/sarah.png" itemprop="photo" alt="picture of Sarah Jamie Lewis" class="img-rounded" style="float: right; border-radius: 15px; border:1px solid #aaa; margin: 0px 20px 0px 20px;" height="187px" width="150px">
 
 In the past I have designed and developed large stream processing systems, taught science and cryptography classes in schools, built secure proxies, conducted security audits and worked on [open source projects](https://github.com/s-rah) including:
 
@@ -34,6 +39,7 @@ You can find examples of my work, and work history at these places:
 
 # Articles I have Written
 
+* [Machine Learning (for the the Dark Side of the Force)](https://www.linkedin.com/pulse/machine-learning-dark-side-force-sarah-jamie-lewis)
 * [Adversarial Machine Learning](/posts/adversarial-machine-learning.html)
 * [Fun with GitHub Email Settings (GitHub Bug Bounty)](/posts/fun-with-github.html)
 * [How File Systems Store User Permissions - A Practical Guide with xv6](posts/file-system-permissions-and-xv6.html)

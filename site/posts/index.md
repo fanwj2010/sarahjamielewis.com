@@ -26,6 +26,7 @@ I sometimes write articles. This page documents the articles I have written.
       </div>
 </div>
 
+* [Machine Learning (for the the Dark Side of the Force)](https://www.linkedin.com/pulse/machine-learning-dark-side-force-sarah-jamie-lewis)
 * [Adversarial Machine Learning](/posts/adversarial-machine-learning.html)
 * [Fun with GitHub Email Settings (GitHub Bug Bounty)](/posts/fun-with-github.html)
 * [How File Systems Store User Permissions - A Practical Guide with xv6](/posts/file-system-permissions-and-xv6.html)
