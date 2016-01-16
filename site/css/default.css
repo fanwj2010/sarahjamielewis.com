@@ -130,3 +130,7 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
+pre.prettyprint{
+    width: auto;
+    overflow: auto;
+}
