@@ -32,6 +32,10 @@ I sometimes write articles. This page documents the articles I have written.
 * [Fun with GitHub Email Settings (GitHub Bug Bounty)](/posts/fun-with-github.html)
 * [How File Systems Store User Permissions - A Practical Guide with xv6](/posts/file-system-permissions-and-xv6.html)
 
+## CTF Series
+
+* [Insomni'hack 2016 Teaser Writeup](/posts/insomnihack-teaser-ctf-2016.html)
+
 ## LinkedIn Non-Technical Series
 
 * [What Welsh Mythology Teaches Us About Security](https://www.linkedin.com/pulse/what-welsh-mythology-teaches-us-security-sarah-jamie-lewis)
