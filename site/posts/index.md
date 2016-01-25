@@ -38,6 +38,7 @@ I sometimes write articles. This page documents the articles I have written.
 
 ## LinkedIn Non-Technical Series
 
+* [Please Stop Releasing "Anonymized" Datasets"](https://www.linkedin.com/pulse/please-stop-releasing-anonymized-datasets-sarah-jamie-lewis)
 * [What Welsh Mythology Teaches Us About Security](https://www.linkedin.com/pulse/what-welsh-mythology-teaches-us-security-sarah-jamie-lewis)
 * [Honey, The Fridge has been Hacked Again; Security and the Internet of Things](https://www.linkedin.com/pulse/honey-fridge-has-been-hacked-again-security-internet-things-lewis)
 * [Machine Learning (for the the Dark Side of the Force)](https://www.linkedin.com/pulse/machine-learning-dark-side-force-sarah-jamie-lewis)
