@@ -16,11 +16,11 @@ do
   echo "Processing $f file..."
 
   # Each directory attempts to use its own template.
-  BASE=$(basename $(dirname $f))
+ # BASE=$(basename $(dirname $f))
 
-  if [ $BASE = "tmp" ]; then
-	BASE="default"
-  fi
+  #if [ $BASE = "tmp" ]; then
+	BASE="default2"
+  #fi
   TITLE=$(head -n 1 $f | cut -c3-)
   DES=$(sed -n '4p' $f | sed -r 's/<\!\-\-//g') 
 

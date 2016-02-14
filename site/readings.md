@@ -5,10 +5,7 @@ This page chronicles articles, videos, papers and other such productions that I 
 <div itemscope itemtype="http://schema.org/BlogPosting">
   <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="https://sarahjamielewis.com/reading.html"/> 
   <h2 itemprop="headline">Big List of Readings</h2>
-  <h3 itemprop="author" itemscope itemtype="https://schema.org/Person">
-    By <span itemprop="name">Sarah Jamie Lewis</span>
-  </h2>
-  <span itemprop="description">This page chronicles articles, videos, papers and other such productions that I have found useful or otherwise enjoyed.</span>
+  <p><span itemprop="description">This page chronicles articles, videos, papers and other such productions that I have found useful or otherwise enjoyed.</span></p>
   <meta itemprop="datePublished" content="2015-03-14T08:00:00+08:00"/>
   <meta itemprop="dateModified" content="2015-12-20T08:00:00+08:00"/>
   <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">

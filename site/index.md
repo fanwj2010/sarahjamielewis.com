@@ -5,57 +5,38 @@
 <!----->
 
 
-# Introduction
-Hi I'm Sarah, I like computer security, privacy, cryptography, decentralization, free software
-and [vegan](/posts/vegan.html) food. I currently build and break systems at a large tech company (all opinions on this
-site are my own etc.)
+# Sarah Jamie Lewis
+<p style="margin-top:-10px;" class="text-muted byline">Security Researcher & Computer Scientist</p>
 
-<img src="./images/sarah.png" itemprop="photo" alt="picture of Sarah Jamie Lewis" class="img-rounded" style="float: right; border-radius: 15px; border:1px solid #aaa; margin: 0px 20px 0px 20px;" height="187px" width="150px">
+My work is focused on understanding threat models, analyzing existing applications and building intelligent tools to combat current and future security risk for both individuals and groups.
 
-In the past I have designed and developed large stream processing systems, taught science and cryptography classes in schools, built secure proxies, conducted security audits and worked on [open source projects](https://github.com/s-rah) including:
+I currently work at a large tech company focused on security and fraud.
 
-* [Recoil](https://github.com/s-rah/recoil) - A testing tool for the Ricochet protocol/client
-* [Go-Ricochet](https://github.com/s-rah/go-ricochet) - A go implementation of the Ricochet protocol
-* [ivy](https://github.com/s-rah/ivy) - A small, security-focused Go library.
-* [xv6-permissions](https://github.com/s-rah/xv6-permissions) - A project and [article](posts/file-system-permissions-and-xv6.html) exploring how unix-like file system permissions are implemented from the physical filesystem and up.
-* [itsy bitsy](https://github.com/s-rah/itsybitsy) - A teenie tiny Static Site Generator
-
-# Resume / What I do
-
-I specialize in software security, most notably, web application security,
-protocol analysis and privacy.
-
-I’m always interested in hearing from people with interesting projects, so, 
-please, feel free to contact me (details below).
-
-You can find examples of my work, and work history at these places:
-
-* My [LinkedIn](https://ca.linkedin.com/in/sarahjamielewis).
-* [Github - @s-rah](https://github.com/s-rah) - a collection of open source projects.
-
-# Security Research / Bug Bounties
-
-* [GitHub Security Bug Bounty profile](https://bounty.github.com/researchers/s-rah.html) ([writeup](posts/fun-with-github.html))
-
-# Articles I have Written
-
-* [Machine Learning (for the the Dark Side of the Force)](https://www.linkedin.com/pulse/machine-learning-dark-side-force-sarah-jamie-lewis)
-* [Adversarial Machine Learning](/posts/adversarial-machine-learning.html)
-* [Fun with GitHub Email Settings (GitHub Bug Bounty)](/posts/fun-with-github.html)
-* [How File Systems Store User Permissions - A Practical Guide with xv6](posts/file-system-permissions-and-xv6.html)
-* I am working on a book titled [Building and Breaking Anonymous Systems - A Practical Guide](https://leanpub.com/building-and-breaking-anonymous-systems).
-
-I also use this site to document [things I have read, watched and listened to.](/readings.html).
+In the past I have designed and developed high-throughput stream processing systems, taught science and cryptography classes in schools, built secure web proxies and led many, many security audits for both large scale consumer websites and critical backend infrastructure.
 
 # Contacting Me
 
-I am on [twitter](https://twitter.com/SarahJamieLewis) and you can also [email me](mailto://me@sarahjamielewis.com). 
+I prefer privacy in my communications, to that end you can [email me](mailto://me@sarahjamielewis.com) but where possible I would ask that you use my <a href="#pgp">pgp key</a>, given below.
 
-My [ricochet](https://ricochet.im) address is: <code>ricochet:qn6uo4cmsrfv4kzq</code>.
+I use [ricochet](https://ricochet.im) for day to day communication. My ricochet address is: <code>ricochet:qn6uo4cmsrfv4kzq</code>. Please feel free to send a contact request with a small note.
+
+If you are interested in what I am currently working on or thinking about then please checkout my
+[twitter](https://twitter.com/SarahJamieLewis) which I post to fairly regularly.
+
+
+# Open Source Projects
+
+Whenever I make something awesome, I like to share it with the world. Below is a small
+curated list of some of the projects that I work on:
+
+* [Go-Ricochet](https://github.com/s-rah/go-ricochet) - A go implementation of the Ricochet protocol
+* [Recoil](https://github.com/s-rah/recoil) - A testing tool for the Ricochet protocol/client
+* [xv6-permissions](https://github.com/s-rah/xv6-permissions) - A project and [article](posts/file-system-permissions-and-xv6.html) exploring how unix-like file system permissions are implemented from the physical filesystem and up.
+* [itsy bitsy](https://github.com/s-rah/itsybitsy) - A teenie tiny Static Site Generator
 
 # My PGP Public Key
 
-<pre class="a" style="background: #eee; font-size: 0.9em; padding: 30px; width: 510px;">
+<pre class="a" id="pgp" style="background: #eee; font-size: 0.9em;">
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1.4.11 (GNU/Linux)
 

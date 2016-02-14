@@ -4,7 +4,7 @@ body {
     font-size: 14px;
     line-height: 1.42857143;
     color: #111;
-    background-color: #224;
+    background-color: #462E74;
 }
 
 div#c {
@@ -17,18 +17,13 @@ div#c {
 }
 
 a {
-  color: #337ab7;
+  color: #2C1657;
   text-decoration: none;
 }
-a:hover,
-a:focus {
-  color: #23527c;
+
+a:hover {
+  color: #665091;
   text-decoration: underline;
-}
-a:focus {
-  outline: thin dotted;
-  outline: 5px auto -webkit-focus-ring-color;
-  outline-offset: -2px;
 }
 
 li {
@@ -70,10 +65,12 @@ div#footer {
 
 h1 {
     font-size: 24px;
+    color:#18063A;
 }
 
 h2 {
     font-size: 20px;
+    color: #18063A;
 }
 
 ul {
@@ -84,22 +81,6 @@ div.info {
     color: #555;
     font-size: 14px;
     font-style: italic;
-}
-
-a {
-	text-decoration:underline;
-	color: #222;
-}
-
-.alert {
-	width:80%;
-	margin:auto;
-	padding:5px;
-	background-color:#88BB88;
-	text-align:center;
-	border: 2px solid #003300;
-	color:#227722;
-	font-weight:bold;
 }
 
 figure {
