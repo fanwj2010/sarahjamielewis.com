@@ -9,6 +9,8 @@ Below is a curated list of writing that I have done both on this site, and aroun
 
 ## Research Articles
 
+* [Refactoring Go-Ricochet](/posts/ricochet-refactor.html)
+* [Why Privacy is Important (to me)](/posts/privacy.html)
 * [Analyzing Some Malware from my Email](/posts/malware-email-analysis.html)
 * [Adversarial Machine Learning](/posts/adversarial-machine-learning.html)
 * [Fun with GitHub Email Settings (GitHub Bug Bounty)](/posts/fun-with-github.html)
